@@ -1,0 +1,14 @@
+.outerDiv{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(236, 232, 232);
+  width: 70%;
+  margin: 12rem auto;
+  position: relative;
+  text-align: center;
+}
+.innerDiv{
+  margin: 2rem;
+}
